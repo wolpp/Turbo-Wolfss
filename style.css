@@ -230,7 +230,7 @@ section {
     transform: rotate(calc(360deg / 4 * var(--i)));
     transform-origin: 384px;
     background: var(--bg-color);
-    padding: 13px 0;
+    padding: 5px 0;
 }
 
 .home .profession-box .profession:nth-child(1) i {
